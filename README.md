@@ -1,6 +1,6 @@
 <section id="US Debt Analysis">
   <h2>🚴 US Debt Analysis</h2>
-<p><img src="images/US-Debt.jpg" alt="" width="800" height="262"></section</p>
+<p><img src="images/US-Debt.png" alt="" width="800" height="262"></section</p>
 
   <h3>Introduction</h3>
  <p>As an Analytics onsultant, I was hired by a debt agency in Washington DC to analyze the US government's public and governmental 
@@ -63,6 +63,7 @@
 								
 								
 </section>
+
 
 
 
