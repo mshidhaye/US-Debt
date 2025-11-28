@@ -17,14 +17,14 @@
   
 
   <h3>Tools Used</h3>
-  <li><b>Excel</b> – Data Cleaning</li>
+  <p>Excel</b> – Data Cleaning</p>
   
 
   <h3>Insights</h3>
   <ul class="sudo">
   <b>1. Yearly Debt Percentage Increase</b>
 	                           <p>For yearly Debt, data between the years of 2016 and 2022 was analyzed<p>
-			                	<p><img src="images/Yearly Debt.jpg" alt="" width="800" height="600"></p>
+			                   <p><img src="images/Yearly Debt.jpg" alt="" width="800" height="600"></p>
 				               <li>For the Total Public Debt Outstanding, in years 2016-2019, the average increase was around 5%.</li>
                                <li>In 2020, we see a large spike that was most likely caused by the pandemic responses in the US.
 			                   <li>During the pandemic (year 2020) public debt spiked drmatically by ~26%</li>
@@ -63,6 +63,7 @@
 								
 								
 </section>
+
 
 
 
